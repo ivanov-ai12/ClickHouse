@@ -3,7 +3,6 @@
   "type": "library",
   "description": "PHP ClickHouse Client",
   "keywords": ["clickhouse", "driver", "client", "curl", "http", "HTTP client", "php"],
-  "homepage": "https://github.com/smi2/phpClickHouse",
   "license": "MIT",
   "require": {
     "php": "^7.3|^8.0",
